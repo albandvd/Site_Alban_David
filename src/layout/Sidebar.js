@@ -40,7 +40,7 @@ const Sidebar = () => {
             ))}
           </ul>
         </div>
-        <div className="copyright w-full float-left">
+/*        <div className="copyright w-full float-left">
           <p className="text-[15px] text-[#999] font-montserrat leading-[25px]">
             © {new Date().getFullYear()} Tokyo
             <br />
@@ -53,7 +53,7 @@ const Sidebar = () => {
               Codeefly
             </a>
           </p>
-        </div>
+        </div> */
       </div>
     </div>
   );
