@@ -40,9 +40,9 @@ const Sidebar = () => {
             ))}
           </ul>
         </div>
-/*        <div className="copyright w-full float-left">
+        <div className="copyright w-full float-left">
           <p className="text-[15px] text-[#999] font-montserrat leading-[25px]">
-            © {new Date().getFullYear()} Tokyo
+            /* © {new Date().getFullYear()} Tokyo 
             <br />
             Created by{" "}
             <a
@@ -51,10 +51,10 @@ const Sidebar = () => {
               target="_blank"
             >
               Codeefly
-            </a>
+            </a> */
           </p>
         </div> 
-      </div> */
+      </div> 
     </div>
   );
 };
