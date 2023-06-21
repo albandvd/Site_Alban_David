@@ -22,7 +22,7 @@ const About = () => {
       <Skills />
       <KnowledgeInterests />
       <EducationExperience />
-      <Testimonials />
+  /*    <Testimonials /> */
     </SectionContainer>
   );
 };
