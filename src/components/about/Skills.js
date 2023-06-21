@@ -6,6 +6,7 @@ const programming = [
 const language = [
   { id: 1, name: "Anglais", value: 75 },
   { id: 2, name: "Espagnol", value: 60 },
+  { id: 3, name: "Français", value: 100 },
 ];
 const Skills = () => {
   return (
