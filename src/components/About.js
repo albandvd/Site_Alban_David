@@ -4,7 +4,8 @@ import EducationExperience from "./about/EducationExperience";
 import Intro from "./about/Intro";
 import KnowledgeInterests from "./about/KnowledgeInterests";
 import Skills from "./about/Skills";
-import Testimonials from "./about/Testimonials";
+
+/* import Testimonials from "./about/Testimonials"; */
 const About = () => {
   return (
     <SectionContainer name={"about"}>
