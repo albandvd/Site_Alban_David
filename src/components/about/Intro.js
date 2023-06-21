@@ -3,11 +3,11 @@ const Intro = () => {
   return (
     <Fragment>
       <div className="top_author_image w-full h-auto clear-both float-left relative mb-[35px]">
-        <img className="min-w-full" src="assets/img/slider/1.jpg" alt="image" />
+        <img className="min-w-full" src="assets/img/slider/alban2.jpg" alt="image" />
       </div>
       <div className="about_title w-full h-auto clear-both float-left border-solid border-[#DFDFDF] border-b pb-[20px] mb-[30px]">
         <h3 className="text-[22px] font-bold">Alban David</h3>
-        <span>Technicien Supérieur en Réseau</span>
+        <span>Etudiant en BUT R&T - Université de Nice - Sophia Antipolis</span>
       </div>
       <div className="about_text w-full h-auto clear-both float-left border-solid border-[#DFDFDF] border-b pb-[31px] mb-[30px]">
         <p className="mb-[11px]">
