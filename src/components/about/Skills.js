@@ -4,9 +4,8 @@ const programming = [
   { id: 3, name: "Linux", value: 60 },
 ];
 const language = [
-  { id: 1, name: "English", value: 90 },
-  { id: 2, name: "Russian", value: 95 },
-  { id: 3, name: "Arabic", value: 85 },
+  { id: 1, name: "Anglais", value: 75 },
+  { id: 2, name: "Espagnol", value: 60 },
 ];
 const Skills = () => {
   return (
