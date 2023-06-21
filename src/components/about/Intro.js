@@ -32,9 +32,9 @@ const Intro = () => {
             <ul className="m-0 list-none">
               <li className="m-0">
                 <span className="min-w-[100px] float-left mr-[10px] font-bold text-black">
-                  Birthday:
+                  Date de naissance:
                 </span>
-                <span>20.08.2004</span>
+                <span>20/08/2004</span>
               </li>
               <li className="m-0">
                 <span className="min-w-[100px] float-left mr-[10px] font-bold text-black">
