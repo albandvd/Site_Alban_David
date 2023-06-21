@@ -9,12 +9,12 @@ const socialIcon = [
     id: 2,
     iconName: "icon-twitter-squared",
     link: "https://twitter.com/",
-  },
+  }, */
   {
     id: 3,
-    iconName: "icon-behance-squared",
-    link: "https://www.behance.net/",
-  }, */
+    iconName: "icon-github-squared",
+    link: "https://www.github.com/albandvd",
+  }, 
   {
     id: 4,
     iconName: "icon-linkedin-squared",
