@@ -12,7 +12,7 @@ const About = () => {
         <div className="tokyo_tm_about w-full h-auto clear-both float-left py-[100px] px-0">
           <div className="tokyo_tm_title w-full h-auto clear-both float-left mb-[62px]">
             <div className="title_flex w-full h-auto clear-both flex justify-between items-end">
-              <SectionTitle pageName={"About"} title={"About Me"} />
+              <SectionTitle pageName={"About"} title={"A propos de moi"} />
             </div>
           </div>
           <Intro />
