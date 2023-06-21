@@ -1,6 +1,6 @@
 import SectionContainer from "./SectionContainer";
 const socialIcon = [
-  {
+/*  {
     id: 1,
     iconName: "icon-facebook-squared",
     link: "https://www.facebook.com/",
@@ -14,7 +14,7 @@ const socialIcon = [
     id: 3,
     iconName: "icon-behance-squared",
     link: "https://www.behance.net/",
-  },
+  }, */
   {
     id: 4,
     iconName: "icon-linkedin-squared",
