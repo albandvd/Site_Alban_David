@@ -51,7 +51,7 @@ const detailData = [
 	],
     client: "Alvaro Morata",
     date: "October 22, 2022",
-    category: "Detail",
+    category: "Réseau",
     share: [
       {
         id: 1,
@@ -282,7 +282,7 @@ const Portfolio = () => {
                     <a
                       className="text-[#767676] inline-block font-medium font-montserrat transition-all duration-300 hover:text-black"
                       href="#"
-                      onClick={handleFilterKeyChange("detail")}
+                      onClick={handleFilterKeyChange("Réseau")}
                     >
                       Reseaux   
                     </a>
