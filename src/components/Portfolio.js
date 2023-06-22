@@ -284,7 +284,7 @@ const Portfolio = () => {
                       href="#"
                       onClick={handleFilterKeyChange("detail")}
                     >
-                      Réseaux
+                      Detail
                     </a>
                   </li>
                   <li className="inline-block">
