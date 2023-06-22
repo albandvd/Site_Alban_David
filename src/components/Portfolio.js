@@ -19,23 +19,18 @@ const detailData = [
     share: [
       {
         id: 1,
-        iconName: "icon-github-squared",
-        link: "https://github.com/Exarven15/SAE15",
+        iconName: "icon-behance-squared",
+        link: "https://drive.google.com/file/d/1EWLznuGHhMy5Abs5iZW5HSllNhQl9z-7/view?usp=drive_link",
       },
       {
         id: 2,
-        iconName: "icon-google-squared",
-        link: "https://twitter.com/",
+        iconName: "icon-behance-squared",
+        link: "https://drive.google.com/file/d/1agnJQAoEePDrnFh3EXS2PBpeafVimrbO/view?usp=drive_link",
       },
       {
         id: 3,
         iconName: "icon-behance-squared",
-        link: "https://www.behance.net/",
-      },
-      {
-        id: 4,
-        iconName: "icon-linkedin-squared",
-        link: "https://www.linkedin.com/",
+        link: "https://drive.google.com/file/d/1ijVSAos7KxswF_ZFmCFs3ZkJsJW2E6R5/view?usp=drive_link",
       },
     ],
     bigImage: "assets/img/portfolio/2.jpg",
