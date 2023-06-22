@@ -5,7 +5,7 @@ const experiencesData = [
     designation: "Alternant ",
     company: "Nextsourcia",
   },
-  {
+  /*{
     id: 2,
     date: "2016 - 2018",
     designation: "UX Designer",
@@ -16,7 +16,7 @@ const experiencesData = [
     date: "2012 - 2016",
     designation: "Web Designer",
     company: "Innovations Park",
-  },
+  },*/
 ];
 const educationData = [
   {
@@ -31,12 +31,12 @@ const educationData = [
     degree: "Baccaloréat Général Maths Physique NSI",
     institute: "Lycée Stanislas Cannes",
   },
-  {
+  /*{
     id: 3,
     date: "2008 - 2010",
     degree: "Associate Degree",
     institute: "Simone College",
-  },
+  },*/
 ];
 
 const EducationExperience = () => {
