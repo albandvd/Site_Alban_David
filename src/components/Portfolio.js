@@ -342,8 +342,8 @@ const Portfolio = () => {
                 <div className="inner w-full h-auto clear-both float-left overflow-hidden relative">
                   <div
                     className="entry tokyo_tm_portfolio_animation_wrap"
-                    data-title="Reseaux 2"
-                    data-category="Detail"
+                    data-title="Étude du réseau domestique"
+                    data-category="Réseau"
                   >
                     <a
                       className="popup_info"
@@ -371,8 +371,8 @@ const Portfolio = () => {
                 <div className="inner w-full h-auto clear-both float-left overflow-hidden relative">
                   <div
                     className="entry tokyo_tm_portfolio_animation_wrap"
-                    data-title="Systeme 1"
-                    data-category="Detail1"
+                    data-title="Étude des LoRa"
+                    data-category="Télécom"
                   >
                     <a
                       className="popup_info"
@@ -428,8 +428,8 @@ const Portfolio = () => {
                 <div className="inner w-full h-auto clear-both float-left overflow-hidden relative">
                   <div
                     className="entry tokyo_tm_portfolio_animation_wrap"
-                    data-title="Programmation 1"
-                    data-category="Detail2"
+                    data-title="Projet Thales"
+                    data-category="Programmation"
                   >
                     <a
                       className="popup_info"
@@ -456,8 +456,8 @@ const Portfolio = () => {
                 <div className="inner w-full h-auto clear-both float-left overflow-hidden relative">
                   <div
                     className="entry tokyo_tm_portfolio_animation_wrap"
-                    data-title="Programmation 2"
-                    data-category="Detail2"
+                    data-title="Wordle"
+                    data-category="Programmation"
                   >
                     <a
                       className="popup_info"
