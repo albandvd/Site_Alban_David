@@ -85,12 +85,12 @@ const detail1Data = [
     thumbnail: "assets/img/portfolio/7.jpg",
     title: "Systeme Projet1",
     text: [
-      "Description projet 1 réseaux",
-      "Suite du détail",
+      "La SAE 22 est un projet réalisé au cours de ma première année à l’IUT R&T de Sophia Antipolis.",
+      "Cette dernière avait pour but de nous faire comprendre le fonctionnement de la norme lora et du fonctionnement d’un appareil de télécommunication. Nous avions deux rapports à rendre un premier sur un tp ou nous devions faire des tests sur des appareils de communications et étudier le Spreading Factor et un second ou nous deviens faire des tests sur oscilloscope. ",
     ],
     client: "Alban",
-    date: "Février 2023",
-    category: "Réseau",
+    date: "Juin 2023",
+    category: "Télécom",
     share: [
       {
         id: 1,
@@ -439,11 +439,6 @@ const Portfolio = () => {
                         modalToggle(true);
                       }}
                     >
-                      <img
-                        className="opacity-0 min-w-full"
-                        src="assets/img/thumbs/1-1.jpg"
-                        alt="image"
-                      />
                       <div
                         className="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300"
                         data-img-url="assets/img/portfolio/7.jpg"
