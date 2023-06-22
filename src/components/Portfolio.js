@@ -83,7 +83,7 @@ const detail1Data = [
   {
     id: 1,
     thumbnail: "assets/img/portfolio/7.jpg",
-    title: "Systeme Projet1",
+    title: "Étude des LoRa",
     text: [
       "La SAE 22 est un projet réalisé au cours de ma première année à l’IUT R&T de Sophia Antipolis.",
       "Cette dernière avait pour but de nous faire comprendre le fonctionnement de la norme lora et du fonctionnement d’un appareil de télécommunication. Nous avions deux rapports à rendre un premier sur un tp ou nous devions faire des tests sur des appareils de communications et étudier le Spreading Factor et un second ou nous deviens faire des tests sur oscilloscope. ",
@@ -94,23 +94,18 @@ const detail1Data = [
     share: [
       {
         id: 1,
-        iconName: "icon-facebook-squared",
-        link: "https://www.facebook.com/",
+        iconName: "icon-behance-squared",
+        link: "https://drive.google.com/drive/folders/1dZchHV-RoYqE8ITnGLybT-2hvWzBlhPN",
       },
       {
         id: 2,
-        iconName: "icon-twitter-squared",
-        link: "https://twitter.com/",
+        iconName: "icon-behance-squared",
+        link: "https://drive.google.com/file/d/1mdN0svHh5HPAfPp-lfhnD-IVi_XbeYJ2/view?usp=drive_link",
       },
       {
         id: 3,
         iconName: "icon-behance-squared",
-        link: "https://www.behance.net/",
-      },
-      {
-        id: 4,
-        iconName: "icon-linkedin-squared",
-        link: "https://www.linkedin.com/",
+        link: "https://drive.google.com/file/d/1gIrKgNJmZMCdQgTj1Ohhnq-MMQcL_oHL/view?usp=drive_link",
       },
     ],
     bigImage: "assets/img/portfolio/1.jpg",
@@ -194,23 +189,8 @@ const detail2Data = [
     share: [
       {
         id: 1,
-        iconName: "icon-facebook-squared",
-        link: "https://www.facebook.com/",
-      },
-      {
-        id: 2,
-        iconName: "icon-twitter-squared",
-        link: "https://twitter.com/",
-      },
-      {
-        id: 3,
-        iconName: "icon-behance-squared",
-        link: "https://www.behance.net/",
-      },
-      {
-        id: 4,
-        iconName: "icon-linkedin-squared",
-        link: "https://www.linkedin.com/",
+        iconName: "icon-github-squared",
+        link: "https://github.com/albandvd/Wordle",
       },
     ],
     bigImage: "assets/img/portfolio/1.jpg",
