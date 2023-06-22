@@ -114,7 +114,7 @@ const Portfolio = () => {
             <div className="title_flex w-full h-auto clear-both flex justify-between items-end">
               <SectionTitle
                 pageName={"Portfolio"}
-                title={"Creative Portfolio"}
+                title={"Mes Projets"}
               />
               <div className="portfolio_filter">
                 <ul className="list-none">
