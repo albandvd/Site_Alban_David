@@ -39,7 +39,7 @@ const detailData = [
       },
     ],
     bigImage: "assets/img/portfolio/sae21.jpg",
-    images: ["assets/img/portfolio/2.jpg", "assets/img/portfolio/3.jpg"],
+    images: ["assets/img/portfolio/sae21.jpg", "assets/img/portfolio/3.jpg"],
   },
   {
     id: 2,
