@@ -7,16 +7,6 @@ const DetailsModal = () => {
   return (
     <ModalContainer nullValue={setPortfolioDetailsModal}>
       <div className="popup_details">
-/*        <div className="top_image">
-          <img src="assets/img/thumbs/4-2.jpg" alt="image" />
-          <div
-            className="main"
-            data-img-url={portfolioDetailsModal.thumbnail}
-            style={{
-              backgroundImage: `url(${portfolioDetailsModal.thumbnail})`,
-            }}
-          />
-        </div> */
         <div className="portfolio_main_title">
           <h3>{portfolioDetailsModal.title}</h3>
           <span>{portfolioDetailsModal.category}</span>
