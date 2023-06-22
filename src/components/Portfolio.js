@@ -332,7 +332,7 @@ const Portfolio = () => {
                       />
                       <div
                         className="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300"
-                        data-img-url="assets/img/portfolio/7.jpg"
+                        data-img-url="assets/img/portfolio/sae21.jpg"
                       />
                     </a>
                   </div>
