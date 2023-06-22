@@ -425,7 +425,7 @@ const Portfolio = () => {
                 </div>
               </li>
 
-              <li className="detail1 mb-[40px] float-left w-1/3 pl-[40px] item__">
+              <li className="detail2 mb-[40px] float-left w-1/3 pl-[40px] item__">
                 <div className="inner w-full h-auto clear-both float-left overflow-hidden relative">
                   <div
                     className="entry tokyo_tm_portfolio_animation_wrap"
@@ -453,7 +453,7 @@ const Portfolio = () => {
                   </div>
                 </div>
               </li>
-              <li className="detail1 mb-[40px] float-left w-1/3 pl-[40px] item__">
+              <li className="detail2 mb-[40px] float-left w-1/3 pl-[40px] item__">
                 <div className="inner w-full h-auto clear-both float-left overflow-hidden relative">
                   <div
                     className="entry tokyo_tm_portfolio_animation_wrap"
