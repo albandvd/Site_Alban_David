@@ -4,12 +4,12 @@ const socialIcon = [
     id: 1,
     iconName: "icon-facebook-squared",
     link: "https://www.facebook.com/",
-  },
+  }, */
   {
     id: 2,
     iconName: "icon-twitter-squared",
     link: "https://twitter.com/",
-  }, */
+  }, 
   {
     id: 3,
     iconName: "icon-github-squared",
