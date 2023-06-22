@@ -315,8 +315,8 @@ const Portfolio = () => {
                 <div className="inner w-full h-auto clear-both float-left overflow-hidden relative">
                   <div
                     className="entry tokyo_tm_portfolio_animation_wrap"
-                    data-title="Reseaux 1"
-                    data-category="Detail"
+                    data-title="Mise en place d'un réseau d'entreprise"
+                    data-category="Réseau"
                   >
                     <a
                       className="popup_info"
