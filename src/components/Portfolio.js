@@ -90,7 +90,7 @@ const detail1Data = [
     ],
     client: "Alban",
     date: "Février 2023",
-    category: "Detail1",
+    category: "Réseau",
     share: [
       {
         id: 1,
@@ -157,15 +157,14 @@ const detail1Data = [
 const detail2Data = [
   {
     id: 1,
-    thumbnail: "assets/img/portfolio/7.jpg",
     title: "Programmation Projet1",
     text: [
-      "Description projet 1 programmation",
-      "Suite du détail",
+      "Les SAE 23/24 sont de projets réalisés en partenariat avec l’entreprise Thales Alenia Space, au cours de ma première année à l’IUT R&T de Sophia Antipolis. ",
+      "Ce projet avait pour but de nous faire travailler sur de nombreuses compétences acquis durant notre première année comme la création d’un script python, la mise en place d’une base de données et la création d’un site web pour afficher les données. Durant ce projet nous devions créer un programme permettant de décoder des trames binaires et les afficher sur un site web. ",
     ],
     client: "Alban",
-    date: "Février 2023",
-    category: "Detail2",
+    date: "2022 - 2023",
+    category: "Devellopement",
     share: [
       {
         id: 1,
