@@ -284,7 +284,7 @@ const Portfolio = () => {
                       href="#"
                       onClick={handleFilterKeyChange("detail")}
                     >
-                      Detail
+                      Reseaux   
                     </a>
                   </li>
                   <li className="inline-block">
@@ -293,7 +293,7 @@ const Portfolio = () => {
                       href="#"
                       onClick={handleFilterKeyChange("detail1")}
                     >
-                      System
+                      System   
                     </a>
                   </li>
                    <li className="inline-block">
@@ -302,7 +302,7 @@ const Portfolio = () => {
                       href="#"
                       onClick={handleFilterKeyChange("detail2")}
                     >
-                      Programmation
+                      Programmation   
                     </a>
                   </li>
                </ul>
