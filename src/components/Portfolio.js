@@ -350,34 +350,6 @@ const Portfolio = () => {
                   </div>
                 </div>
               </li>
-              <li className="detail1 mb-[40px] float-left w-1/3 pl-[40px] item__">
-                <div className="inner w-full h-auto clear-both float-left overflow-hidden relative">
-                  <div
-                    className="entry tokyo_tm_portfolio_animation_wrap"
-                    data-title="Systeme 2"
-                    data-category="Detail1"
-                  >
-                    <a
-                      className="popup_info"
-                      href="#"
-                      onClick={() => {
-                        setPortfolioDetailsModal(detail1Data[1]);
-                        modalToggle(true);
-                      }}
-                    >
-                      <img
-                        className="opacity-0 min-w-full"
-                        src="assets/img/thumbs/1-1.jpg"
-                        alt="image"
-                      />
-                      <div
-                        className="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300"
-                        data-img-url="assets/img/portfolio/8.jpg"
-                      />
-                    </a>
-                  </div>
-                </div>
-              </li>
 
               <li className="detail2 mb-[40px] float-left w-1/3 pl-[40px] item__">
                 <div className="inner w-full h-auto clear-both float-left overflow-hidden relative">
