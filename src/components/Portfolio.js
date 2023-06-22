@@ -8,14 +8,14 @@ const detailData = [
   {
     id: 1,
     thumbnail: "assets/img/portfolio/7.jpg",
-    title: "Réseaux Projet1",
+    title: "Mise en place d'un réseau d'entreprise",
     text: [
-      "Description projet 1 réseaux",
-      "Suite du détail",
+      "La SAE 21 est un projet réalisé au cours de ma première année à l’IUT R&T de Sophia Antipolis. ",
+      "L’objectif de cette SAE était de créer un réseau d’entreprise sur l’outils paquet tracer. Pour cela nous avons dû apprendre à mettre en place de nombreux éléments utilisé aujourd’hui pour configurer le réseau d’une entreprise.",
     ],
     client: "Alban",
     date: "Février 2023",
-    category: "Detail",
+    category: "Réseau",
     share: [
       {
         id: 1,
@@ -44,7 +44,7 @@ const detailData = [
   {
     id: 2,
     thumbnail: "assets/img/portfolio/8.jpg",
-    title: "Reseaux Projet2",
+    title: "Etude du réseau domestique",
     text: [
       "Description projet 2 réseaux",
       "Suite du détail",   
