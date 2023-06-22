@@ -157,14 +157,14 @@ const detail1Data = [
 const detail2Data = [
   {
     id: 1,
-    title: "Programmation Projet1",
+    title: "Projet Thales",
     text: [
       "Les SAE 23/24 sont de projets réalisés en partenariat avec l’entreprise Thales Alenia Space, au cours de ma première année à l’IUT R&T de Sophia Antipolis. ",
       "Ce projet avait pour but de nous faire travailler sur de nombreuses compétences acquis durant notre première année comme la création d’un script python, la mise en place d’une base de données et la création d’un site web pour afficher les données. Durant ce projet nous devions créer un programme permettant de décoder des trames binaires et les afficher sur un site web. ",
     ],
     client: "Alban",
     date: "2022 - 2023",
-    category: "Devellopement",
+    category: "Programmation",
     share: [
       {
         id: 1,
@@ -195,12 +195,12 @@ const detail2Data = [
     thumbnail: "assets/img/portfolio/8.jpg",
     title: "Programmation Projet2",
     text: [
-      "Description projet 2 programmation",
-      "Suite du détail",
+      "Ce projet a été réalisé pendant ma première année à l’IUT R&T de Sophia Antipolis",
+      "Le Wordle est un jeu qui consiste à trouver un mot du dictionnaire en 5 tentatives à la manière jeu « Mastermind ». J’ai développé ce jeu en python pour tester mes compétences. ",
     ],
-    client: "Alvaro Morata",
-    date: "October 22, 2022",
-    category: "Detail2",
+    client: "Alban",
+    date: "March, 2023",
+    category: "Programmation",
     share: [
       {
         id: 1,
