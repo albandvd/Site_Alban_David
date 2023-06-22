@@ -8,13 +8,13 @@ const detailData = [
   {
     id: 1,
     thumbnail: "assets/img/portfolio/7.jpg",
-    title: "Selena Gomez",
+    title: "Réseaux Projet1",
     text: [
-      "We live in a world where we need to move quickly and iterate on our ideas as flexibly as possible. Building mockups strikes the ideal balance between true-life representation of the end product and ease of modification.",
-      "Mockups are useful both for the creative phase of the project - for instance when you're trying to figure out your user flows or the proper visual hierarchy - and the production phase when they will represent the target product. Making mockups a part of your creative and development process allows you to quickly and easily ideate.",
+      "Description projet 1 réseaux",
+      "Suite du détail",
     ],
-    client: "Alvaro Morata",
-    date: "October 22, 2022",
+    client: "Alban",
+    date: "Février 2023",
     category: "Detail",
     share: [
       {
