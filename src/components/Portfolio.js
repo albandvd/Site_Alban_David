@@ -173,18 +173,8 @@ const detail2Data = [
       },
       {
         id: 2,
-        iconName: "icon-google-squared",
+        iconName: "icon-googledrive-squared",
         link: "https://drive.google.com/file/d/1LY_Py9C__5URUjF_PInu4MvKTfZhEZBq/view?usp=drive_link",
-      },
-      {
-        id: 3,
-        iconName: "icon-behance-squared",
-        link: "https://www.behance.net/",
-      },
-      {
-        id: 4,
-        iconName: "icon-linkedin-squared",
-        link: "https://www.linkedin.com/",
       },
     ],
     bigImage: "assets/img/portfolio/1.jpg",
