@@ -38,7 +38,7 @@ const detailData = [
         link: "https://www.linkedin.com/",
       },
     ],
-    bigImage: "public/assets/img/portfolio/sae21.jpg",
+    bigImage: "assets/img/portfolio/sae21.jpg",
     images: ["assets/img/portfolio/2.jpg", "assets/img/portfolio/3.jpg"],
   },
   {
@@ -46,11 +46,11 @@ const detailData = [
     thumbnail: "assets/img/portfolio/8.jpg",
     title: "Etude du réseau domestique",
     text: [
-      "Description projet 2 réseaux",
-      "Suite du détail",   
+      "La SAE 12 est un projet réalisé au cours de ma première année à l’IUT R&T de Sophia Antipolis.",
+      "Ce dernier avait pour but de nous faire tester notre réseau domestique et de voir l’impact de notre utilisation d’internet sur l’environnement. ",   
 	],
-    client: "Alvaro Morata",
-    date: "October 22, 2022",
+    client: "Alban",
+    date: "Decembre 2022",
     category: "Réseau",
     share: [
       {
@@ -282,7 +282,7 @@ const Portfolio = () => {
                     <a
                       className="text-[#767676] inline-block font-medium font-montserrat transition-all duration-300 hover:text-black"
                       href="#"
-                      onClick={handleFilterKeyChange("Réseau")}
+                      onClick={handleFilterKeyChange("detail")}
                     >
                       Reseaux   
                     </a>
