@@ -360,7 +360,7 @@ const Portfolio = () => {
                 <div className="inner w-full h-auto clear-both float-left overflow-hidden relative">
                   <div
                     className="entry tokyo_tm_portfolio_animation_wrap"
-                    data-title="Selena Gomez"
+                    data-title="Reseaux 1"
                     data-category="Detail"
                   >
                     <a
@@ -388,7 +388,7 @@ const Portfolio = () => {
                 <div className="inner w-full h-auto clear-both float-left overflow-hidden relative">
                   <div
                     className="entry tokyo_tm_portfolio_animation_wrap"
-                    data-title="Ave Simone"
+                    data-title="Reseaux 2"
                     data-category="Detail"
                   >
                     <a
@@ -412,12 +412,12 @@ const Portfolio = () => {
                   </div>
                 </div>
               </li>
-/* vd */
+
               <li className="detail1 mb-[40px] float-left w-1/3 pl-[40px] item__">
                 <div className="inner w-full h-auto clear-both float-left overflow-hidden relative">
                   <div
                     className="entry tokyo_tm_portfolio_animation_wrap"
-                    data-title="Selena Gomez"
+                    data-title="Systeme 1"
                     data-category="Detail1"
                   >
                     <a
@@ -445,7 +445,7 @@ const Portfolio = () => {
                 <div className="inner w-full h-auto clear-both float-left overflow-hidden relative">
                   <div
                     className="entry tokyo_tm_portfolio_animation_wrap"
-                    data-title="Ave Simone"
+                    data-title="Systeme 2"
                     data-category="Detail1"
                   >
                     <a
