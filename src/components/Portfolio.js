@@ -173,7 +173,7 @@ const detail2Data = [
       },
       {
         id: 2,
-        iconName: "icon-drivegoogle-squared",
+        iconName: "icon-drive.google-squared",
         link: "https://drive.google.com/file/d/1LY_Py9C__5URUjF_PInu4MvKTfZhEZBq/view?usp=drive_link",
       },
     ],
