@@ -38,8 +38,7 @@ const detailData = [
         link: "https://www.linkedin.com/",
       },
     ],
-    bigImage: "assets/img/portfolio/sae21.jpg",
-    images: ["assets/img/portfolio/sae21.jpg", "assets/img/portfolio/3.jpg"],
+    bigImage: "assets/img/portfolio/2.jpg",
   },
   {
     id: 2,
