@@ -55,23 +55,13 @@ const detailData = [
     share: [
       {
         id: 1,
-        iconName: "icon-facebook-squared",
-        link: "https://www.facebook.com/",
+        iconName: "icon-behance-squared",
+        link: "https://drive.google.com/file/d/1RKsGkSsGV25gzoCv1kLTW8aWazP575Xv/view?usp=drive_link",
       },
       {
         id: 2,
-        iconName: "icon-twitter-squared",
-        link: "https://twitter.com/",
-      },
-      {
-        id: 3,
         iconName: "icon-behance-squared",
-        link: "https://www.behance.net/",
-      },
-      {
-        id: 4,
-        iconName: "icon-linkedin-squared",
-        link: "https://www.linkedin.com/",
+        link: "https://drive.google.com/file/d/1zc6kdliCaf52W4RWLraP5IxqyLdjIRpv/view?usp=drive_link",
       },
     ],
     bigImage: "assets/img/portfolio/1.jpg",
@@ -330,7 +320,7 @@ const Portfolio = () => {
                       />
                       <div
                         className="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300"
-                        data-img-url="assets/img/portfolio/8.jpg"
+                        data-img-url="assets/img/portfolio/res_domestique.png"
                       />
                     </a>
                   </div>
