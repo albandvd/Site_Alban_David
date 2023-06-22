@@ -172,6 +172,15 @@ const Portfolio = () => {
                       Detail
                     </a>
                   </li>
+                                    <li className="inline-block">
+                    <a
+                      className="text-[#767676] inline-block font-medium font-montserrat transition-all duration-300 hover:text-black"
+                      href="#"
+                      onClick={handleFilterKeyChange("Reseaux")}
+                    >
+                      Réseaux
+                    </a>
+                  </li>
                 </ul>
               </div>
             </div>
@@ -304,7 +313,35 @@ const Portfolio = () => {
                   <div
                     className="entry tokyo_tm_portfolio_animation_wrap"
                     data-title="Ave Simone"
-                    data-category="Detail"
+                    data-category="detail"
+                  >
+                    <a
+                      className="popup_info"
+                      href="#"
+                      onClick={() => {
+                        setPortfolioDetailsModal(detailData[1]);
+                        modalToggle(true);
+                      }}
+                    >
+                      <img
+                        className="opacity-0 min-w-full"
+                        src="assets/img/thumbs/1-1.jpg"
+                        alt="image"
+                      />
+                      <div
+                        className="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300"
+                        data-img-url="assets/img/portfolio/8.jpg"
+                      />
+                    </a>
+                  </div>
+                </div>
+              </li>
+              <li className="detail mb-[40px] float-left w-1/3 pl-[40px] item__">
+                <div className="inner w-full h-auto clear-both float-left overflow-hidden relative">
+                  <div
+                    className="entry tokyo_tm_portfolio_animation_wrap"
+                    data-title="Ave Simone"
+                    data-category="Reseaux"
                   >
                     <a
                       className="popup_info"
