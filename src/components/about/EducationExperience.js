@@ -2,7 +2,7 @@ const experiencesData = [
   {
     id: 1,
     date: "2023 - Now",
-    designation: "Alternant ",
+    designation: "Alternant DevOps",
     company: "Nextsourcia",
   },
   /*{
