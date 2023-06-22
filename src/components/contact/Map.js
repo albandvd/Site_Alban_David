@@ -7,7 +7,7 @@ const Map = () => {
             width="100%"
             height={355}
             id="gmap_canvas"
-            src="https://maps.google.com/maps?q=2880%20Broadway,%20New%20York&t=&z=13&ie=UTF8&iwloc=&output=embed"
+            src="https://maps.google.com/maps?q=650%20Rte%20des%20Colles,%2006560%20Valbonne&t=&z=13&ie=UTF8&iwloc=&output=embed"
             frameBorder={0}
             scrolling="no"
             marginHeight={0}
@@ -35,3 +35,5 @@ const Map = () => {
   );
 };
 export default Map;
+
+
