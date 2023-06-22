@@ -19,12 +19,12 @@ const detailData = [
     share: [
       {
         id: 1,
-        iconName: "icon-facebook-squared",
-        link: "https://www.facebook.com/",
+        iconName: "icon-github-squared",
+        link: "https://github.com/Exarven15/SAE15",
       },
       {
         id: 2,
-        iconName: "icon-twitter-squared",
+        iconName: "icon-google-squared",
         link: "https://twitter.com/",
       },
       {
@@ -168,13 +168,13 @@ const detail2Data = [
     share: [
       {
         id: 1,
-        iconName: "icon-facebook-squared",
-        link: "https://www.facebook.com/",
+        iconName: "icon-github-squared",
+        link: "https://github.com/Exarven15/SAE15",
       },
       {
         id: 2,
-        iconName: "icon-twitter-squared",
-        link: "https://twitter.com/",
+        iconName: "icon-google-squared",
+        link: "https://drive.google.com/file/d/1LY_Py9C__5URUjF_PInu4MvKTfZhEZBq/view?usp=drive_link",
       },
       {
         id: 3,
