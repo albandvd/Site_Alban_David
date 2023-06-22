@@ -127,6 +127,15 @@ const Portfolio = () => {
                       All
                     </a>
                   </li>
+                  <li className="inline-block">
+                    <a
+                      className="text-[#767676] inline-block font-medium font-montserrat transition-all duration-300 hover:text-black"
+                      href="#"
+                      onClick={handleFilterKeyChange("detail")}
+                    >
+                      Réseaux
+                    </a>
+                  </li>
                   <li className="mr-[25px] inline-block">
                     <a
                       className="text-[#767676] inline-block font-medium font-montserrat transition-all duration-300 hover:text-black"
@@ -161,15 +170,6 @@ const Portfolio = () => {
                       onClick={handleFilterKeyChange("image")}
                     >
                       Image
-                    </a>
-                  </li>
-                  <li className="inline-block">
-                    <a
-                      className="text-[#767676] inline-block font-medium font-montserrat transition-all duration-300 hover:text-black"
-                      href="#"
-                      onClick={handleFilterKeyChange("detail")}
-                    >
-                      Detail
                     </a>
                   </li>
                 </ul>
