@@ -439,6 +439,11 @@ const Portfolio = () => {
                         modalToggle(true);
                       }}
                     >
+		      <img
+                        className="opacity-0 min-w-full"
+                        src="assets/img/thumbs/1-1.jpg"
+                        alt="image"
+                      />
                       <div
                         className="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300"
                         data-img-url="assets/img/portfolio/7.jpg"
