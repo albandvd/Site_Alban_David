@@ -27,7 +27,7 @@ const ContactForm = () => {
           (response) => {
             setError(false);
             clearError();
-            setMailData({ name: "", email: "", message: "" });
+            setMailData({ name: "from_name", email: "reply_to", message: "message" });
           },
           (err) => {
             console.log(err.text);
