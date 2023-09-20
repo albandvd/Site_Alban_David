@@ -183,7 +183,7 @@ const detail2Data = [
   },
 ];
 
-const detail2Data = [
+const detail3Data = [
   {
     id: 1,
     thumbnail: "assets/img/portfolio/7.jpg",
@@ -291,6 +291,15 @@ const Portfolio = () => {
                       onClick={handleFilterKeyChange("detail2")}
                     >
                       Programmation   
+                    </a>
+                  </li>
+		<li className="inline-block">
+                    <a
+                      className="text-[#767676] inline-block font-medium font-montserrat transition-all duration-300 hover:text-black"
+                      href="#"
+                      onClick={handleFilterKeyChange("detail3")}
+                    >
+                      System   
                     </a>
                   </li>
                </ul>
