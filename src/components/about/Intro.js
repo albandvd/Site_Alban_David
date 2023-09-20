@@ -11,19 +11,11 @@ const Intro = () => {
       </div>
       <div className="about_text w-full h-auto clear-both float-left border-solid border-[#DFDFDF] border-b pb-[31px] mb-[30px]">
         <p className="mb-[11px]">
-          Bonjour, je m'appelle Alban et Je suis le deuxième d’une fratrie de trois enfants. 
-          Ma sœur, de 4 ans mon ainée, fait des études supérieures en programme PGE d’une grande école de commerce. 
-          Elle a la chance, actuellement, d’effectuer sa 5è année d’études aux états unis. 
-          Mon frère de 6 ans mon cadet est en 5è au collège à cannes. 
-          Nous nous entendons tous les trois très bien et profitons toujours des moments que l’on passe ensemble pour faire du sport et de nombreuses activités.         
+          Bonjour, je m'appelle Alban David, je suis atuellement étudiant en deuxième année du BUT réseau et télecom de l'université Nice côte d'Azur. Je sui       
         </p>
         <p>
         Mon objectif est d’intégrer, après mon BUT une école d’ingénieur qui me permettrait de travailler plus tard dans les domaines qui me passionnent comme l’aéronautique ou l’informatique,
-    et de prétendre à des postes à l’international. 
-    Je suis attiré par les états unis ou j’ai eu la chance d’aller plusieurs fois mais aussi par l’Asie. 
-    Singapour est un endroit que j’apprécie tout particulièrement. 
-    J’ai eu la chance de beaucoup voyager avec ma famille. 
-    Cela m’a ouvert l’esprit et m’a donné envie de découvrir toujours plus de nouvelles cultures et de pays.      
+    et de prétendre à des postes à l’international.      
       </p>
       </div>
       <div className="tokyo_tm_short_info w-full h-auto clear-both float-left flex border-solid border-[#DFDFDF] border-b pb-[30px] mb-[40px]">
