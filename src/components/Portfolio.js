@@ -180,8 +180,12 @@ const detail2Data = [
     ],
     bigImage: "assets/img/portfolio/1.jpg",
     images: ["assets/img/portfolio/2.jpg", "assets/img/portfolio/3.jpg"],
-  },{
-    id: 3,
+  },
+];
+
+const detail2Data = [
+  {
+    id: 1,
     thumbnail: "assets/img/portfolio/7.jpg",
     title: "Aquila-Monitoring",
     text: [
