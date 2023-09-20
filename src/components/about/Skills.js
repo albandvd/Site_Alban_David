@@ -2,6 +2,8 @@ const programming = [
   { id: 1, name: "Python", value: 75 },
   { id: 2, name: "Cisco", value: 65 },
   { id: 3, name: "Linux", value: 60 },
+  { id: 4, name: "Java-Script", value: 70},
+  { id: 5, name: "React", value: 60},
 ];
 const language = [
   { id: 1, name: "Français", value: 90 },
