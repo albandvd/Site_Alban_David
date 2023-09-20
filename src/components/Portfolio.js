@@ -180,7 +180,37 @@ const detail2Data = [
     ],
     bigImage: "assets/img/portfolio/1.jpg",
     images: ["assets/img/portfolio/2.jpg", "assets/img/portfolio/3.jpg"],
-  },
+  },{
+    id: 3,
+    thumbnail: "assets/img/portfolio/7.jpg",
+    title: "Aquila-Monitoring",
+    text: [
+      "texte a faire ",
+      "texte 2 a faire",
+    ],
+    client: "Alban",
+    date: "Juillet - Août 2023",
+    category: "Programmation",
+    share: [
+      {
+        id: 1,
+        iconName: "icon-behance-squared",
+        link: "https://drive.google.com/file/d/1EWLznuGHhMy5Abs5iZW5HSllNhQl9z-7/view?usp=drive_link",
+      },
+      {
+        id: 2,
+        iconName: "icon-behance-squared",
+        link: "https://drive.google.com/file/d/1agnJQAoEePDrnFh3EXS2PBpeafVimrbO/view?usp=drive_link",
+      },
+      {
+        id: 3,
+        iconName: "icon-behance-squared",
+        link: "https://drive.google.com/file/d/1ijVSAos7KxswF_ZFmCFs3ZkJsJW2E6R5/view?usp=drive_link",
+      },
+    ],
+    bigImage: "assets/img/portfolio/7.jpg",
+    images: ["", ""],
+  }
 ];
 
 const Portfolio = () => {
