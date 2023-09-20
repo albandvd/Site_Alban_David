@@ -208,7 +208,7 @@ const detail2Data = [
         link: "https://drive.google.com/file/d/1ijVSAos7KxswF_ZFmCFs3ZkJsJW2E6R5/view?usp=drive_link",
       },
     ],
-    bigImage: "assets/img/portfolio/7.jpg",
+    bigImage: "assets/img/portfolio/1.jpg",
     images: ["", ""],
   }
 ];
