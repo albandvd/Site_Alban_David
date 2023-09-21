@@ -43,7 +43,7 @@ const Home = () => {
                 Alban <span>David</span>
               </h3>
               <p className="job font-montserrat font-medium max-w-[450px] mb-[25px]">
-                Bonjour, je suis Alban David. Bienvenu sur mon Portfolio, ce site a pour but de vous présenter mes compétences et de vous partager mes différentes projets.
+                Bonjour, je suis Alban David. Bienvenue sur mon Portfolio, ce site a pour but de vous présenter mes compétences et de vous partager mes différentes projets.
               </p>
               <div className="social w-full float-left">
                 <ul className="m-0 list-none">
