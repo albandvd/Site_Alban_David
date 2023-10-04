@@ -11,7 +11,8 @@ const Intro = () => {
       <div className="about_text w-full h-auto clear-both float-left border-solid border-[#DFDFDF] border-b pb-[31px] mb-[30px]">
         <p className="mb-[11px]">
           Bonjour, je m'appelle Alban David. Je suis actuellement étudiant en deuxième année du BUT Réseau et Télécom de l'Université Nice Côte d'Azur. J'ai la chance de pouvoir réaliser mes études en alternance, je travaille au sein de l'équipe technique de l'entreprise Nextsourcia au poste d'apprenti DevOps.
-          Mon objectif est d’intégrer, après mon BUT une école d’ingénieur qui me permettrait de travailler plus tard dans les domaines qui me passionnent comme l’aéronautique ou l’informatique, et de prétendre à des postes à l’international.      
+          <br>
+      Mon objectif est d’intégrer, après mon BUT une école d’ingénieur qui me permettrait de travailler plus tard dans les domaines qui me passionnent comme l’aéronautique ou l’informatique, et de prétendre à des postes à l’international.      
       </p>
       </div>
       <div className="tokyo_tm_short_info w-full h-auto clear-both float-left flex border-solid border-[#DFDFDF] border-b pb-[30px] mb-[40px]">
