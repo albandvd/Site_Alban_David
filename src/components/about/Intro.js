@@ -21,19 +21,19 @@ const Intro = () => {
             <ul className="m-0 list-none">
               <li className="m-0">
                 <span className="min-w-[100px] float-left mr-[10px] font-bold text-black">
-                  Date de naissance:
+                  Date de naissance :
                 </span>
                 <span>20/08/2004</span>
               </li>
               <li className="m-0">
                 <span className="min-w-[100px] float-left mr-[10px] font-bold text-black">
-                  Age:
+                  Âge :
                 </span>
                 <span>18</span>
               </li>
               <li className="m-0">
                 <span className="min-w-[100px] float-left mr-[10px] font-bold text-black">
-                  Email:
+                  E-mail :
                 </span>
                 <span>
                   <a
@@ -46,7 +46,7 @@ const Intro = () => {
               </li>
               <li className="m-0">
                 <span className="min-w-[100px] float-left mr-[10px] font-bold text-black">
-                  Téléphone:
+                  Téléphone :
                 </span>
                 <span>
                   <a
@@ -65,13 +65,13 @@ const Intro = () => {
             <ul className="m-0 list-none">
               <li className="m-0">
                 <span className="min-w-[100px] float-left mr-[10px] font-bold text-black">
-                  Nationalité:
+                  Nationalité :
                 </span>
                 <span>Française</span>
               </li>
               <li className="m-0">
                 <span className="min-w-[100px] float-left mr-[10px] font-bold text-black">
-                  Etude:
+                  Étude :
                 </span>
                 <span>BUT Réseau et télécom</span>
               </li>
@@ -83,7 +83,7 @@ const Intro = () => {
               </li>
               <li className="m-0">
                 <span className="min-w-[100px] float-left mr-[10px] font-bold text-black">
-                  Centre d'interêt:
+                  Centres d'intérêt:
                 </span>
                 <span>Volley-Ball, Sport automobile</span>
               </li>
