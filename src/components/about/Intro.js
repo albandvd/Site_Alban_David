@@ -77,13 +77,13 @@ const Intro = () => {
               </li>
               <li className="m-0">
                 <span className="min-w-[100px] float-left mr-[10px] font-bold text-black">
-                  Niveau d'étude:
+                  Niveau d'étude :
                 </span>
                 <span>Bachelor</span>
               </li>
               <li className="m-0">
                 <span className="min-w-[100px] float-left mr-[10px] font-bold text-black">
-                  Centres d'intérêt:
+                  Centres d'intérêt :
                 </span>
                 <span>Volley-Ball, Sport automobile</span>
               </li>
