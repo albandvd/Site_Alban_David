@@ -39,7 +39,7 @@ const KnowledgeInterests = () => {
           </div>
           <div className="right w-1/2 pl-[50px]">
             <div className="tokyo_section_title w-full h-auto clear-both float-left mb-[40px]">
-              <h3 className="text-[20px] font-bold">Interests</h3>
+              <h3 className="text-[20px] font-bold">Qualités</h3>
             </div>
             <div className="tokyo_tm_skill_list w-full h-auto clear-both float-left">
               <ul className="m-0 list-none">
