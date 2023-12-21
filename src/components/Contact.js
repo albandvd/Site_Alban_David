@@ -1,7 +1,7 @@
 import SectionContainer from "./SectionContainer";
 import SectionTitle from "./SectionTitle";
 import ContactForm from "./contact/ContactForm";
-import Map from "./contact/Map";
+
 const Contact = () => {
   return (
     <SectionContainer name={"contact"}>
@@ -13,11 +13,11 @@ const Contact = () => {
             </div>
           </div>
           <span>Pour toutes informations supplémentaires ou propositions, n'hésitez pas à me contacter. Je suis à votre disposition pour répondre à vos questions et fournir les détails nécessaires. </span>
-          //<Map />
           <ContactForm />
         </div>
       </div>
     </SectionContainer>
   );
 };
+
 export default Contact;
