@@ -11,7 +11,7 @@ const detailData = [
     title: "Mise en place d'un réseau d'entreprise",
     text: [
       "La SAE 21 est un projet réalisé au cours de ma première année à l’IUT R&T de Sophia Antipolis. ",
-      "L’objectif de cette SAE était de créer un réseau d’entreprise sur l’outils paquet tracer. Pour cela nous avons dû apprendre à mettre en place de nombreux éléments utilisé aujourd’hui pour configurer le réseau d’une entreprise.",
+      "L’objectif de cette SAE était de créer un réseau d’entreprise sur l’outils paquet tracer. Pour cela, nous avons dû apprendre à mettre en place de nombreux éléments utilisé aujourd’hui pour configurer le réseau d’une entreprise.",
     ],
     client: "Alban",
     date: "Février 2023",
@@ -42,7 +42,7 @@ const detailData = [
     title: "Etude du réseau domestique",
     text: [
       "La SAE 12 est un projet réalisé au cours de ma première année à l’IUT R&T de Sophia Antipolis.",
-      "Ce dernier avait pour but de nous faire tester notre réseau domestique et de voir l’impact de notre utilisation d’internet sur l’environnement. ",   
+      "Ce dernier avait pour but de nous faire tester notre réseau domestique et de voir l’impact de notre utilisation d’Internet sur l’environnement. ",   
 	],
     client: "Alban",
     date: "Decembre 2022",
@@ -71,7 +71,7 @@ const detail1Data = [
     title: "Étude des LoRa",
     text: [
       "La SAE 22 est un projet réalisé au cours de ma première année à l’IUT R&T de Sophia Antipolis.",
-      "Cette dernière avait pour but de nous faire comprendre le fonctionnement de la norme lora et du fonctionnement d’un appareil de télécommunication. Nous avions deux rapports à rendre un premier sur un tp ou nous devions faire des tests sur des appareils de communications et étudier le Spreading Factor et un second ou nous deviens faire des tests sur oscilloscope. ",
+      "Cette dernière avait pour but de nous faire comprendre le fonctionnement de la norme lora et du fonctionnement d’un appareil de télécommunication. Nous avions deux rapports à rendre un premier sur un tp ou nous devions faire des tests sur des appareils de communications et étudier le Spreading Factor et un second ou nous deviens faire des tests sur un oscilloscope. ",
     ],
     client: "Alban",
     date: "Juin 2023",
@@ -140,7 +140,7 @@ const detail2Data = [
     title: "Projet Thales",
     text: [
       "Les SAE 23/24 sont de projets réalisés en partenariat avec l’entreprise Thales Alenia Space, au cours de ma première année à l’IUT R&T de Sophia Antipolis. ",
-      "Ce projet avait pour but de nous faire travailler sur de nombreuses compétences acquis durant notre première année comme la création d’un script python, la mise en place d’une base de données et la création d’un site web pour afficher les données. Durant ce projet nous devions créer un programme permettant de décoder des trames binaires et les afficher sur un site web. ",
+      "Ce projet avait pour but de nous faire travailler sur de nombreuses compétences acquises durant notre première année comme la création d’un script python, la mise en place d’une base de données et la création d’un site web pour afficher les données. Durant ce projet, nous devions créer un programme permettant de décoder des trames binaires et les afficher sur un site web. ",
     ],
     client: "Alban",
     date: "2022 - 2023",
@@ -166,7 +166,7 @@ const detail2Data = [
     title: "Programmation Projet2",
     text: [
       "Ce projet a été réalisé pendant ma première année à l’IUT R&T de Sophia Antipolis",
-      "Le Wordle est un jeu qui consiste à trouver un mot du dictionnaire en 5 tentatives à la manière jeu « Mastermind ». J’ai développé ce jeu en python pour tester mes compétences. ",
+      "Le Wordle est un jeu qui consiste à trouver un mot du dictionnaire en 5 tentatives à la manière du jeu « Mastermind ». J’ai développé ce jeu en python pour tester mes compétences. ",
     ],
     client: "Alban",
     date: "March, 2023",
@@ -237,7 +237,8 @@ const Portfolio = () => {
         : isotope.current.arrange({ filter: `.${filterKey}` });
     }
   }, [filterKey]);
-  const handleFilterKeyChange = (key) => () => {
+  const handleFilterKeyChange = (key) => (event) => {
+    event.preventDefault(); // Ajoutez cette ligne pour éviter le comportement par défaut du lien
     setFilterKey(key);
   };
   useEffect(() => {
