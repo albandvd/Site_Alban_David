@@ -16,7 +16,7 @@ const detailData = [
     client: "Alban",
     date: "Février 2023",
     category: "Réseau",
-    share: [
+    liens: [
       {
         id: 1,
         iconName: "icon-behance-squared",

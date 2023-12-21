@@ -13,6 +13,7 @@ const Contact = () => {
             </div>
           </div>
           <span>Pour toutes informations supplémentaires ou propositions, n'hésitez pas à me contacter. Je suis à votre disposition pour répondre à vos questions et fournir les détails nécessaires. </span>
+          <br/>
           <ContactForm />
         </div>
       </div>
